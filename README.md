@@ -12,8 +12,16 @@ Este é um projeto de solucionador de Sudoku que utiliza o algoritmo de backtrac
 
 1. **Copie o projeto para seu diretório desejado:**
    ```bash
-   git clone <https://github.com/lopogamer/SudokuSolver>
+   git clone https://github.com/lopogamer/SudokuSolver
    ```
+2. **Navegue até a pasta do projeto:**
+   ```bash
+   cd SudokuSolver
+   ```
+3. **Execute o gui.exe:**
+ ```bash
+   gui\gui.exe
+ ```
 
 ## Tecnologias Usadas
 
