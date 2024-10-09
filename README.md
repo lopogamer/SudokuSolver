@@ -19,9 +19,9 @@ Este é um projeto de solucionador de Sudoku que utiliza o algoritmo de backtrac
    cd SudokuSolver
    ```
 3. **Execute o gui.exe:**
- ```bash
+    ```bash
    gui\gui.exe
- ```
+    ```
 
 ## Tecnologias Usadas
 
