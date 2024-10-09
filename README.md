@@ -10,9 +10,10 @@ Este é um projeto de solucionador de Sudoku que utiliza o algoritmo de backtrac
 
 ## Como Usar
 
-1. Compile o arquivo `solver.cpp` para gerar o executável.
-2. Execute `gui.py` para abrir a interface gráfica.
-3. Insira um quebra-cabeça de Sudoku e clique em "Resolver".
+1. **Copie o projeto para seu diretório desejado:**
+   ```bash
+   git clone <https://github.com/lopogamer/SudokuSolver>
+   ```
 
 ## Tecnologias Usadas
 
